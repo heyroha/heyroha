@@ -1,7 +1,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjung0831)](http://solved.ac/hjung0831)
 - 👋 Hi, I’m Roha
 - 👀 I’m interested in Big data, Machine Learning, Deep Learning, etc ,,,
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python, Beautiful Soup4 and C++
 - 💞️ Instagram: @xu24.07an
 - 📫 Email: roha2407@outlook.kr
 
