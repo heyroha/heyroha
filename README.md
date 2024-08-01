@@ -2,8 +2,8 @@
 - 👋 Hi, I’m Roha
 - 👀 I’m interested in Big data, Machine Learning, Deep Learning, etc ,,,
 - 🌱 I’m currently learning Python, C++ and SQL
-- 💞️ Instagram: @xu24.07an
-- 📫 Email: roha2407@outlook.kr
+- 💞️ Instagram: @xu24.07an // @chiririringroxias2
+- 📫 Email: roha2407@outlook.kr // hjung0831@naver.com
 
 <!---
 heyroha/heyroha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
