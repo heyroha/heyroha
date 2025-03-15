@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roha
-- 👀 I’m interested in Big data, Machine Learning, Deep Learning, etc ,,,
-- 🌱 I’m currently interedted in DataBase Indexing!
-- 💞️ Instagram: @xu24.07an // @chiririringroxias2
+- 👀 I’m interested in Machine Learning, Deep Learning and Spatial Database Indexing.
+- 🌱 I’m currently interested in ML4DB.
+- 💞️ Instagram: @xu24.07an 
 - 📫 Email: roha2407@outlook.kr
 ---
 **⚡TECH STACK⚡**
