@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Roha
 - 👀 I’m interested in Machine Learning, Deep Learning and Spatial Database Indexing.
 - 🌱 I’m currently interested in ML4DB.
-- 💞️ Instagram: @xu24.07an 
 - 📫 Email: roha2407@outlook.kr
 ---
 **⚡TECH STACK⚡**
