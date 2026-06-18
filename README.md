@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Roha
 - 👀 I’m interested in Machine Learning, Deep Learning and Spatial Database Indexing.
-- 🌱 I’m currently interested in ML4DB.
+- 🌱 I’m currently interested in Data Analysis.
+
+- 안녕하세요, 데이터 분석 꿈나무 로하입니다.
+패션/뷰티, 외식업 등 다양한 도메인의 데이터 분석 프로젝트를 진행 중입니다 :)
 ---
 **⚡TECH STACK⚡**
 
