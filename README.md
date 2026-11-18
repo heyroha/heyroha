@@ -55,7 +55,7 @@
 <!-- 📱 App / Web : 라벤더 -->
 <tr>
 <td align="center" rowspan="4"><b>📱 App &<br/>Web</b></td>
-<td><b>💌 롱디's 월례</b> <sub>· 커플 PWA</sub><br/><sub>Vanilla JS · Node · Supabase · three.js · Gemini — 만남 의결서 · 말투 학습 대화하기 · 픽셀/3D 우리 동네</sub></td>
+<td><b>💌 강강수월례 </b> <sub>· 장거리 커플을 위한 공간공유 앱</sub><br/><sub>Vanilla JS · Node · Supabase · three.js · Gemini — 만남 의결서 · 말투 학습 대화하기 · 픽셀/3D 우리 동네</sub></td>
 <td align="center"><a href="https://github.com/heyroha/longd-couple"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
