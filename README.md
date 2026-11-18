@@ -16,6 +16,12 @@
 <th align="center">🍓 프로젝트</th>
 <th align="center" width="90">📎 링크</th>
 </tr>
+<!-- 📚 Research : 하늘 -->
+<tr>
+<td align="center"><b>📚 Research</b></td>
+<td><b>📝 LLM Benchmark Dataset</b> <sub>· ACL 2025 Workshop (GEM²)</sub><br/><sub>LLM 평가용 벤치마크 데이터셋 연구</sub></td>
+<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/acl_paper.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
+</tr>
 <!-- 📊 Data Analysis : 민트 -->
 <tr>
 <td align="center" rowspan="2"><b>📊 Data<br/>Analysis</b></td>
@@ -55,12 +61,6 @@
 <tr>
 <td><b>🌺 제주롱꽃길롱</b> <sub>· 9oormthon in JEJU (카카오 X 구름)</sub><br/><sub>제주 여행 경험 공유 웹서비스 기획</sub></td>
 <td align="center"><a href="https://github.com/heyroha/9oormthon"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
-</tr>
-<!-- 📚 Research : 하늘 -->
-<tr>
-<td align="center"><b>📚 Research</b></td>
-<td><b>📝 LLM Benchmark Dataset</b> <sub>· ACL 2025 Workshop (GEM²)</sub><br/><sub>LLM 평가용 벤치마크 데이터셋 연구</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/acl_paper.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
 </tr>
 </table>
 <p align="center"></p>
