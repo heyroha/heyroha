@@ -75,7 +75,7 @@
 heyroha/heyroha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"></p>
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/heyroha"
@@ -83,4 +83,5 @@ You can click the Preview link to take a look at your changes.
   height="300"
 />
 </a>
-<p align="center"></p>
+</p>
+
