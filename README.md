@@ -37,24 +37,14 @@
 <td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/figma_paper.pdf"><img src="https://img.shields.io/badge/Paper-FFF3BF?style=flat-square&logo=adobeacrobatreader&logoColor=E67700"/></a></td>
 </tr>
 <tr>
-<td><b>🎬 드라마 캐릭터 챗봇</b><br/><sub>드라마 대본으로 등장인물 화법·성향을 학습한 딥러닝 챗봇 (ko-BERT)</sub></td>
-<td align="center">—</td>
+<td><b>🎬 드라마 캐릭터 챗봇</b><br/><sub>드라마 대본으로 등장인물 화법·성향을 학습한 캐릭터 상담 챗봇 (KoGPT2 · KoSimCSE)</sub></td>
+<td align="center"><a href="https://github.com/heyroha/Deep-Learning_Chatbot"><img src="https://img.shields.io/badge/GitHub-FFF3BF?style=flat-square&logo=github&logoColor=E67700"/></a></td>
 </tr>
 <!-- 💬 LLM / NLP : 딸기우유 핑크 -->
 <tr>
 <td align="center"><b>💬 LLM &<br/>NLP</b></td>
 <td><b>🏭 제조업 다국어 AI 매뉴얼 챗봇</b><br/><sub>RAG (Chunking → Embedding → Vector Index) · 한/영/베 3개 언어 · 현장 만족도 92%</sub></td>
 <td align="center"><a href="https://github.com/Jason-hub-star/gongmo1"><img src="https://img.shields.io/badge/GitHub-FFD6E0?style=flat-square&logo=github&logoColor=D6336C"/></a></td>
-</tr>
-<!-- 📚 Research : 하늘 -->
-<tr>
-<td align="center" rowspan="2"><b>📚 Research</b></td>
-<td><b>📝 LLM Benchmark Dataset</b> <sub>· ACL 2025 Workshop (GEM²)</sub><br/><sub>LLM 평가용 벤치마크 데이터셋 연구</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/acl_paper.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
-</tr>
-<tr>
-<td><b>🗺️ M+Q-tree Spatial Indexing</b> <sub>· 석사 학위논문</sub><br/><sub>공간 데이터베이스 인덱싱 구조 연구</sub></td>
-<td align="center">—</td>
 </tr>
 <!-- 📱 App / Web : 라벤더 -->
 <tr>
@@ -65,6 +55,12 @@
 <tr>
 <td><b>🌺 제주롱꽃길롱</b> <sub>· 9oormthon in JEJU (카카오 X 구름)</sub><br/><sub>제주 여행 경험 공유 웹서비스 기획</sub></td>
 <td align="center"><a href="https://github.com/heyroha/9oormthon"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
+</tr>
+<!-- 📚 Research : 하늘 -->
+<tr>
+<td align="center"><b>📚 Research</b></td>
+<td><b>📝 LLM Benchmark Dataset</b> <sub>· ACL 2025 Workshop (GEM²)</sub><br/><sub>LLM 평가용 벤치마크 데이터셋 연구</sub></td>
+<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/acl_paper.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
 </tr>
 </table>
 <p align="center"></p>
