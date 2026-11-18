@@ -20,21 +20,21 @@
 <tr>
 <td align="center" rowspan="2"><b>📊 Data<br/>Analysis</b></td>
 <td><b>🍇 Next 부르고뉴 찾기</b><br/><sub>토양·기후 데이터 기반 미래 와인 품종 재배지 예측 (LightGBM · XGBoost · SVM)</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/wine.pdf"><img src="https://img.shields.io/badge/PDF-D3F9D8?style=flat-square&logo=adobeacrobatreader&logoColor=2B8A3E"/></a></td>
+<td align="center"><a href="https://github.com/Julia-jh/ML_wine"><img src="https://img.shields.io/badge/GitHub-D3F9D8?style=flat-square&logo=github&logoColor=2B8A3E"/></a></td>
 </tr>
 <tr>
 <td><b>🌊 부산 DIVE 해커톤</b> <sub>· 본선 진출</sub><br/><sub>POS 카드매출·마트 매출·서베이 분석으로 청년 유입 인사이트 제안</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/busan_dive.pdf"><img src="https://img.shields.io/badge/PDF-D3F9D8?style=flat-square&logo=adobeacrobatreader&logoColor=2B8A3E"/></a></td>
+<td align="center"><a href="https://github.com/heyroha/DIVE_in_Busan"><img src="https://img.shields.io/badge/GitHub-D3F9D8?style=flat-square&logo=github&logoColor=2B8A3E"/></a></td>
 </tr>
 <!-- 🧠 ML / DL : 레몬 -->
 <tr>
 <td align="center" rowspan="3"><b>🧠 Machine<br/>Learning &<br/>Deep Learning</b></td>
 <td><b>🍱 한식 객체인식 & 레시피 제공 서비스</b><br/><sub>YOLOv8 · ResNet 비교, 약 10만 장 재라벨링 → 음식명·레시피 출력 웹서비스</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/korean_food_detection.pdf"><img src="https://img.shields.io/badge/PDF-FFF3BF?style=flat-square&logo=adobeacrobatreader&logoColor=E67700"/></a></td>
+<td align="center"><a href="https://github.com/FnFood/Food_classification"><img src="https://img.shields.io/badge/GitHub-FFF3BF?style=flat-square&logo=github&logoColor=E67700"/></a></td>
 </tr>
 <tr>
 <td><b>👗 FIGMA</b> <sub>· 경진대회 본선 진출</sub><br/><sub>Self-Instruct 데이터 증강 + Stable Diffusion LoRA 기반 패션 이미지 생성</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/figma.pdf"><img src="https://img.shields.io/badge/PDF-FFF3BF?style=flat-square&logo=adobeacrobatreader&logoColor=E67700"/></a><br/><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/figma_paper.pdf"><img src="https://img.shields.io/badge/Paper-FFF3BF?style=flat-square&logo=adobeacrobatreader&logoColor=E67700"/></a></td>
+<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/figma_paper.pdf"><img src="https://img.shields.io/badge/Paper-FFF3BF?style=flat-square&logo=adobeacrobatreader&logoColor=E67700"/></a></td>
 </tr>
 <tr>
 <td><b>🎬 드라마 캐릭터 챗봇</b><br/><sub>드라마 대본으로 등장인물 화법·성향을 학습한 딥러닝 챗봇 (ko-BERT)</sub></td>
@@ -42,33 +42,29 @@
 </tr>
 <!-- 💬 LLM / NLP : 딸기우유 핑크 -->
 <tr>
-<td align="center" rowspan="2"><b>💬 LLM &<br/>NLP</b></td>
+<td align="center"><b>💬 LLM &<br/>NLP</b></td>
 <td><b>🏭 제조업 다국어 AI 매뉴얼 챗봇</b><br/><sub>RAG (Chunking → Embedding → Vector Index) · 한/영/베 3개 언어 · 현장 만족도 92%</sub></td>
-<td align="center">—</td>
-</tr>
-<tr>
-<td><b>💰 금융 도메인 NL-to-SQL 챗봇</b><br/><sub>KoELECTRA Fine-tuning + NER + Text-to-SQL 하이브리드 구조</sub></td>
-<td align="center">—</td>
+<td align="center"><a href="https://github.com/Jason-hub-star/gongmo1"><img src="https://img.shields.io/badge/GitHub-FFD6E0?style=flat-square&logo=github&logoColor=D6336C"/></a></td>
 </tr>
 <!-- 📚 Research : 하늘 -->
 <tr>
 <td align="center" rowspan="2"><b>📚 Research</b></td>
 <td><b>📝 LLM Benchmark Dataset</b> <sub>· ACL 2025 Workshop (GEM²)</sub><br/><sub>LLM 평가용 벤치마크 데이터셋 연구</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/llm_benchmark.pdf"><img src="https://img.shields.io/badge/PDF-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a><br/><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/acl_paper.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
+<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/acl_paper.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
 </tr>
 <tr>
 <td><b>🗺️ M+Q-tree Spatial Indexing</b> <sub>· 석사 학위논문</sub><br/><sub>공간 데이터베이스 인덱싱 구조 연구</sub></td>
-<td align="center"><a href="https://github.com/heyroha/heyroha/blob/main/portfolio/thesis.pdf"><img src="https://img.shields.io/badge/Paper-D0EBFF?style=flat-square&logo=adobeacrobatreader&logoColor=1864AB"/></a></td>
+<td align="center">—</td>
 </tr>
 <!-- 📱 App / Web : 라벤더 -->
 <tr>
 <td align="center" rowspan="2"><b>📱 App &<br/>Web</b></td>
 <td><b>🎂 Birthday Advent Calendar</b> <sub>· 풀스택</sub><br/><sub>Next.js 16 · Supabase · Tailwind CSS · Vercel 배포</sub></td>
-<td align="center">—</td>
+<td align="center"><a href="https://github.com/heyroha/advent-calendar"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
 <td><b>🌺 제주롱꽃길롱</b> <sub>· 9oormthon in JEJU (카카오 X 구름)</sub><br/><sub>제주 여행 경험 공유 웹서비스 기획</sub></td>
-<td align="center">—</td>
+<td align="center"><a href="https://github.com/heyroha/9oormthon"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 </table>
 <p align="center"></p>
@@ -76,7 +72,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heyroha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyroha&layout=compact)](https://github.com/heyroha/github-readme-stats)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heyroha) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyroha&layout=compact)](https://github.com/heyroha/github-readme-stats) -->
 
 
 <!---
