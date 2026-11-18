@@ -59,7 +59,7 @@
 <td align="center"><a href="https://github.com/heyroha/longd-couple"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
-<td><b>🎂 Birthday Advent Calendar</b> <sub>· 풀스택</sub><br/><sub>Next.js 16 · Supabase · Tailwind CSS · Vercel 배포</sub></td>
+<td><b>🎂 Birthday Advent Calendar</b> <sub>· 생일 선물 달력</sub><br/><sub>Next.js 16 · TypeScript · CSS 3D · SVG — 손그림 문을 하나씩 열면 일러스트 · 메시지 · 기프티콘이 나오는 웹</sub></td>
 <td align="center"><a href="https://github.com/heyroha/advent-calendar"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
