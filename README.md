@@ -54,9 +54,13 @@
 </tr>
 <!-- 📱 App / Web : 라벤더 -->
 <tr>
-<td align="center" rowspan="2"><b>📱 App &<br/>Web</b></td>
+<td align="center" rowspan="3"><b>📱 App &<br/>Web</b></td>
 <td><b>🎂 Birthday Advent Calendar</b> <sub>· 풀스택</sub><br/><sub>Next.js 16 · Supabase · Tailwind CSS · Vercel 배포</sub></td>
 <td align="center"><a href="https://github.com/heyroha/advent-calendar"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
+</tr>
+<tr>
+<td><b>🐶 뭉뭉식탁</b> <sub>· 실시간 메뉴 주문 웹앱</sub><br/><sub>React · TypeScript · Supabase Realtime — 메뉴판 주문이 주방 코르크보드에 바로 반영</sub></td>
+<td align="center"><a href="https://github.com/heyroha/menu_app"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
 <td><b>🌺 제주롱꽃길롱</b> <sub>· 9oormthon in JEJU (카카오 X 구름)</sub><br/><sub>제주 여행 경험 공유 웹서비스 기획</sub></td>
