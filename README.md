@@ -63,7 +63,7 @@
 <td align="center"><a href="https://github.com/heyroha/advent-calendar"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
-<td><b>🐶 뭉뭉식탁</b> <sub>· 실시간 메뉴 주문 웹앱</sub><br/><sub>React · TypeScript · Supabase Realtime — 메뉴판 주문이 주방 코르크보드에 바로 반영</sub></td>
+<td><b>🍳 오늘의 식탁</b> <sub>· 실시간 메뉴 주문 웹앱</sub><br/><sub>React · TypeScript · Supabase Realtime — 띵! 벨을 누르면 주방 핀보드에 주문서가 바로 꽂혀요</sub></td>
 <td align="center"><a href="https://github.com/heyroha/menu_app"><img src="https://img.shields.io/badge/GitHub-E5DBFF?style=flat-square&logo=github&logoColor=5F3DC4"/></a></td>
 </tr>
 <tr>
